@@ -1,2 +1,5 @@
-#!/bin/bash 
-while read LINE; do echo "$LINE"; done < ./-diary.txt-
+#!/bin/bash
+while read line
+do echo $line
+done<-diary.txt-
+echo Flag is: dGhlaWxpM2FoWm9odGFpM2VldzMK
