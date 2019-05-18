@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd part1
 ls
 cd ../..
