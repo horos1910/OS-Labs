@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd //
 cd usr/local/man/man8
 gunzip diary.1.gz
