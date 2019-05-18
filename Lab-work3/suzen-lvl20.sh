@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd ..
 rm john -r
 mkdir john
