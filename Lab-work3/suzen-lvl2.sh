@@ -1,5 +1,4 @@
 #!/bin/bash
-
 ls
 cat :*
 
