@@ -1,4 +1,5 @@
 #!bin/bash
 
-id
-echo Flag is: ZXVsb29naG91MFBob2g4T2hkYWkK
+
+
+echo "Flag is: $(id root | grep -o '[0-9a-zA-Z]\{28\}')"
