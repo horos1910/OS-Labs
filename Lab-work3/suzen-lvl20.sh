@@ -4,6 +4,6 @@ cd ..
 rm john -r
 mkdir john
 cd suzen
-sleep 60
-ls
-echo Flag is: YW1pZWhpaW0yb2h5NW9vRjZlaXcK
+
+
+echo "Flag is: $(ls | grep -o '[0-9a-zA-Z]\{28\}')"
